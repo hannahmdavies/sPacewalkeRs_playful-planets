@@ -6,7 +6,6 @@ author:
   - name: "Dr Thomas Okafor"
     affiliation: "Space Systems Research Group, University of Edinburgh"
 date: today
-doi: [![DOI](https://sandbox.zenodo.org/badge/1217588421.svg)](https://handle.test.datacite.org/10.5072/zenodo.491763)
 format:
   html:
     toc: true
@@ -57,7 +56,7 @@ Frequency and cumulative count analyses were conducted in R (version 4.3) using 
 
 ### Data and code availability
 
-The raw EVA dataset is publicly available from NASA at <https://www.nasa.gov/international-space-station/spacewalks/>. All analysis code, the processed dataset, and the source Quarto document used to generate this report are available at **[repository URL — to be completed]** under a **[licence — to be completed]** licence. The repository is archived at Zenodo under **[DOI — to be completed]**.
+The raw EVA dataset is publicly available from NASA at <https://www.nasa.gov/international-space-station/spacewalks/>. All analysis code, the processed dataset, and the source Quarto document used to generate this report are available at **[repository URL — to be completed]** under a **[GNU v2]** licence. The repository is archived at Zenodo under **[10.5072/zenodo.491764]**.
 
 ---
 
