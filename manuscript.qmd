@@ -6,6 +6,7 @@ author:
   - name: "Dr Thomas Okafor"
     affiliation: "Space Systems Research Group, University of Edinburgh"
 date: today
+doi: [![DOI](https://sandbox.zenodo.org/badge/1217588421.svg)](https://handle.test.datacite.org/10.5072/zenodo.491763)
 format:
   html:
     toc: true
