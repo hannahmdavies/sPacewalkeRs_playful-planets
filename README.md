@@ -1,6 +1,23 @@
 # NASA Spacewalk Analysis — Reproducible Manuscript
 
 [![DOI](https://sandbox.zenodo.org/badge/1217588421.svg)](https://handle.test.datacite.org/10.5072/zenodo.491763)
+cff-version: 1.2.0
+title: NASA Spacewalk database TEST
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Hannah Mavis
+    family-names: Davies
+    email: hmd908@uowmail.edu.au
+    affiliation: UOW
+identifiers:
+  - type: doi
+    value: 10.5072/zenodo.491764
+license: GPL-2.0
+version: v1.0.0
+date-released: '2026-04-22'
 
 This repository contains a reproducible manuscript analysing six decades of NASA and Roscosmos extravehicular activity (EVA) data. Analysis figures are generated from Python and R scripts on every push to `main`, and the rendered manuscript is deployed to GitHub Pages.
 
