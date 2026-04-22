@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: NASA Spacewalk database TEST
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Hannah Mavis
+    family-names: Davies
+    email: hmd908@uowmail.edu.au
+    affiliation: UOW
+identifiers:
+  - type: doi
+    value: 10.5072/zenodo.491764
+license: GPL-2.0
+version: v1.0.0
+date-released: '2026-04-22'
